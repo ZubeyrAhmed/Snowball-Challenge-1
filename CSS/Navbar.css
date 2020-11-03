@@ -1,0 +1,30 @@
+ul.Meny{    
+    /* "list-style-type: none;" gjør at det ikke kommer 
+    prikker for hvert li */
+    list-style-type: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    margin-left: -10px;
+    /*overflow: hidden;*/
+    background-color:rgb(128, 175, 190);
+    padding: 0;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Her er det som skjer hvis du holder musepekeren over a*/
+li a:hover{
+    color: black;
+}
