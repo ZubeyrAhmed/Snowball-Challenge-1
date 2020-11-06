@@ -8,7 +8,7 @@ ul.Meny{
     margin: 0;
     margin-left: -10px;
     /*overflow: hidden;*/
-    background-color:rgb(128, 175, 190);
+    background-color: #322e2f;
     padding: 0;
 }
 
@@ -18,7 +18,7 @@ li{
 
 li a{
     display: block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -26,9 +26,9 @@ li a{
 
 /* Her er det som skjer hvis du holder musepekeren over a*/
 li a:hover{
-    color: white;
+    color: black;
 }
 
 .active{
-    color:white;
+    color:black;
 }
