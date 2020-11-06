@@ -18,7 +18,7 @@ li{
 
 li a{
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -26,5 +26,9 @@ li a{
 
 /* Her er det som skjer hvis du holder musepekeren over a*/
 li a:hover{
-    color: black;
+    color: white;
+}
+
+.active{
+    color:white;
 }
