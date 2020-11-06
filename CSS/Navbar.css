@@ -6,14 +6,14 @@ ul.Meny{
     top: 0;
     width: 100%;
     margin: 0;
-    margin-left: -10px;
-    /*overflow: hidden;*/
+    margin-left:-8px;
+    overflow: hidden;
     background-color: #322e2f;
     padding: 0;
 }
 
-li{
-    float: left;
+.floatleft{
+     float: left;
 }
 
 li a{
@@ -26,9 +26,5 @@ li a{
 
 /* Her er det som skjer hvis du holder musepekeren over a*/
 li a:hover{
-    color: black;
-}
-
-.active{
-    color:black;
+    color: #B8860B;
 }
