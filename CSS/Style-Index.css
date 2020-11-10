@@ -10,10 +10,12 @@ h1{
 h2{
     margin-left: 50px;
     text-decoration: underline;
+    font-size:25px;
 }
 
 p{
     margin-left: 50px;
+    font-size:20px;
 }
 
 .Bilde{
@@ -21,4 +23,7 @@ p{
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+}
+li a:hover{
+    color: #B8860B;
 }

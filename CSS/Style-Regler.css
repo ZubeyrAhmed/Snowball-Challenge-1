@@ -29,3 +29,18 @@ p{
     color:blue;
     text-decoration: underline;
 }
+
+li a.Oslo{
+    font-style: italic;
+    color:blue;
+    text-decoration: underline;
+}
+
+li a.Oslo:hover{
+    color:black;
+}
+li a:hover{
+    color: #B8860B;
+}
+
+

@@ -6,4 +6,6 @@ h1{
 body{
     background-color: #B8860B;
 }
-
+li a:hover{
+    color: #B8860B;
+}
